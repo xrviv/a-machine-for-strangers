@@ -14,4 +14,4 @@ what can—and cannot—be known about Nakamoto.
 ## Begin reading
 
 - [Prologue — Autumn 2008](/a-machine-for-strangers/chapters/00-autumn-2008/)
-- *Coming next: Chapter 1 — A Person Must Be Able to Own Something*
+- [Chapter 1 — A Person Must Be Able to Own Something](/a-machine-for-strangers/chapters/01-a-person-must-be-able-to-own-something/)
